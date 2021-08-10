@@ -4,3 +4,13 @@
 * python manage.py startapp <NameOfApp> #create a new application, then, add in settings.
 * python manage.py makemigrations # Create a SQL migrations
 * python manage.py migrate # Apply migrations into database
+
+### Super User's data
+* User: root
+* Password: rootroot
+* Email: root@root.com
+
+
+* User: benja
+* Password: testing
+* Email: benjaminoliva14@gmail.com
